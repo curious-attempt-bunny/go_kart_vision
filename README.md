@@ -8,7 +8,9 @@ I'm using OSX 10.9.3, Java, IntelliJ IDEA, ffmpeg, and OpenCV 2.4.9. This projec
 
 # How I've cheated
 
-I've found that putting blue duct tape along the top of the steering wheel gets me from recognizing the steering wheel angle 90% of the time to 99.9%+ of the time as it's much more robust to speed blur due to bumps. It's also a quick, easy, low tech, change to make that doesn't damage the go kart in anyway.
+I've found that putting blue duct tape along the top of the steering wheel gets me from recognizing the steering wheel angle 90% of the time to 99.9%+ of the time as it's much more robust to speed blur. It's also a quick, easy, low tech, change to make that doesn't damage the go kart in any way:
+
+![Duct Tape](documentation/duct-tape.jpg)
 
 # Getting started
 
